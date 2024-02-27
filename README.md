@@ -33,4 +33,4 @@ In conclusion, the Employee Attrition Dashboard serves as a strategic tool for H
 
 
 
-<img width="819" alt="Screenshot 2024-02-27 135829" src="https://github.com/rajmhapsekar/HR-ANALYTICS-DASHBORD/assets/122268955/38d03151-b30d-4660-98fe-8b827ae7a77e">
+<img width="606" alt="Screenshot 2024-02-27 141032" src="https://github.com/rajmhapsekar/HR-ANALYTICS-DASHBORD/assets/122268955/bd4445a1-d264-4530-8728-a6284a44f135">
