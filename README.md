@@ -28,9 +28,9 @@ The dashboard draws upon a rich dataset encompassing various dimensions of emplo
 **Tree Chart**: Provides a gender-based breakdown of attrition rates, aiding in the identification of gender-specific trends and challenges.
 
 **Conclusion**:
-
 In conclusion, the Employee Attrition Dashboard serves as a strategic tool for HR managers and organizational leaders to gain deeper insights into employee turnover dynamics. By leveraging data-driven insights, organizations can devise proactive retention strategies, foster a positive workplace culture, and ultimately enhance employee engagement and retention rates. Through continuous monitoring and analysis, the dashboard empowers organizations to cultivate a thriving and resilient workforce in today's competitive business landscape.
 
 
 
 
+<img width="819" alt="Screenshot 2024-02-27 135829" src="https://github.com/rajmhapsekar/HR-ANALYTICS-DASHBORD/assets/122268955/38d03151-b30d-4660-98fe-8b827ae7a77e">
